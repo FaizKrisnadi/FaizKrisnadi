@@ -1,12 +1,15 @@
-### Hi there 👋
+Hi there 👋 I’m Faiz.
 
-<!--
-**FaizKrisnadi/FaizKrisnadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A non-technical political economist (aspiring to be) with a bias toward evidence and reproducibility. If there’s a claim, I want the data and the code that led to it.
 
-Here are some ideas to get you started:
+I'm currently learning to build
+- Replication repositories (data + scripts + outputs)
+- Clean, documented datasets for research use
+- Lightweight analysis pipelines in Python/R
 
-- 🔭 Currently studying at the International Program if International Relations, UMY
-- 🌱 I’m currently learning about UX and digital marketing
-- 👯 Founder of Ruang Virtual, let's collaborate on youths empowerment
-- 📫 Reach me through Instagram or Twitter (@Faizkrisnadii)
--->
+Current interests
+- Global trade 
+- Political economy in Southeast Asia and China-related economic engagement
+- How narratives and incentives shape policy choices
+
+Let's connect!
