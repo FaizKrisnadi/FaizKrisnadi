@@ -12,4 +12,11 @@ Current interests
 - Political economy in Southeast Asia and China-related economic engagement
 - How narratives and incentives shape policy choices
 
+## Building right now
+
+- [discovery-engine](https://github.com/FaizKrisnadi/discovery-engine) — evidence-linked discovery over AidData × GEM × GLEIF: Chinese-financed Indonesian power plants. Every graph edge cites its evidence, test-enforced.
+- [career-hq](https://github.com/FaizKrisnadi/career-hq) — a Career Command Center: Cloudflare cockpit + agent engine that scores fit, drafts anti-slop cover letters, and sweeps job boards.
+- [flood-explorer](https://github.com/FaizKrisnadi/flood-explorer) — 26 years of historical flood data in Indonesia, mapped.
+- [tokcat](https://github.com/FaizKrisnadi/tokcat) — native Swift AI token usage monitor for the macOS menu bar, with a cute 2D/3D contribution graph.
+
 Let's connect!
