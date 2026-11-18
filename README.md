@@ -8,7 +8,7 @@
   <a href="https://github.com/FaizKrisnadi/workwith-faiz"><img src="https://img.shields.io/badge/work_with_me-speaking_·_mentoring_·_research-f0883e?style=flat-square" alt="Work with me" /></a>
 </p>
 
-I'm a political economist who builds things to check claims. I study global trade, Southeast Asian political economy and China's economic engagement in the region, and I care about how narratives and incentives shape policy. My rule: if there's a claim, I want the data and the code that led to it.
+I'm a political economy researcher who builds things to check claims. I study global trade, Southeast Asian political economy and China's economic engagement in the region, and I care about how narratives and incentives shape policy. My rule: if there's a claim, I want the data and the code that led to it.
 
 ### Building now
 
@@ -33,10 +33,10 @@ I'm a political economist who builds things to check claims. I study global trad
 
 ### Tools
 
-<p><b>research</b>&nbsp; <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=ffd43b" alt="Python" /> <img src="https://img.shields.io/badge/R-161b22?style=flat-square&logo=r&logoColor=276dc3" alt="R" /> <img src="https://img.shields.io/badge/Stata-161b22?style=flat-square&logo=stata&logoColor=white" alt="Stata" /> <img src="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=f37626" alt="Jupyter" /></p>
+<p><b>research</b>&nbsp; <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=ffd43b" alt="Python" /> <img src="https://img.shields.io/badge/R-161b22?style=flat-square&logo=r&logoColor=276dc3" alt="R" /> <img src="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=f37626" alt="Jupyter" /></p>
 
 <p><b>build</b>&nbsp; <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" /> <img src="https://img.shields.io/badge/Swift-161b22?style=flat-square&logo=swift&logoColor=f05138" alt="Swift" /> <img src="https://img.shields.io/badge/Cloudflare-161b22?style=flat-square&logo=cloudflare&logoColor=f38020" alt="Cloudflare" /></p>
 
-<p><b>agents</b>&nbsp; <img src="https://img.shields.io/badge/Claude_Code-161b22?style=flat-square&logo=claude&logoColor=d97757" alt="Claude Code" /> <img src="https://img.shields.io/badge/Gemini_API-161b22?style=flat-square&logo=googlegemini&logoColor=8e75b2" alt="Gemini API" /> <img src="https://img.shields.io/badge/MCP-161b22?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" /></p>
+<p><b>agents</b>&nbsp; <img src="https://img.shields.io/badge/Claude_Code-161b22?style=flat-square&logo=claude&logoColor=d97757" alt="Claude Code" /> <img src="https://img.shields.io/badge/Codex-161b22?style=flat-square&logo=openai&logoColor=white" alt="Codex" /> <img src="https://img.shields.io/badge/Muse-161b22?style=flat-square" alt="Muse" /> <img src="https://img.shields.io/badge/Q_by_Manus-161b22?style=flat-square" alt="Q by Manus" /> <img src="https://img.shields.io/badge/Z_Code-161b22?style=flat-square" alt="Z Code" /></p>
 
 <sub>Open to research collaborations on trade, energy finance and Southeast Asia. Say hi on X.</sub>
