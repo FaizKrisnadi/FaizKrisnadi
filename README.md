@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://faizkrisnadi.github.io"><img src="https://img.shields.io/badge/site-faizkrisnadi.github.io-161b22?style=flat-square&logo=githubpages&logoColor=white" alt="Website" /></a>
+  <a href="https://faizkrisnadi.com"><img src="https://img.shields.io/badge/site-faizkrisnadi.com-161b22?style=flat-square&logo=githubpages&logoColor=white" alt="Website" /></a>
   <a href="https://x.com/faizkrisnadi"><img src="https://img.shields.io/badge/@faizkrisnadi-161b22?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://github.com/FaizKrisnadi/workwith-faiz"><img src="https://img.shields.io/badge/work_with_me-speaking_·_mentoring_·_research-f0883e?style=flat-square" alt="Work with me" /></a>
 </p>
